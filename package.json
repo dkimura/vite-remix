@@ -30,7 +30,7 @@
     "eslint-plugin-react-hooks": "4.6.2",
     "typescript": "5.4.5",
     "vite": "5.2.11",
-    "vite-tsconfig-paths": "4.3.2"
+    "vite-tsconfig-paths": "5.0.1"
   },
   "engines": {
     "node": "v22.2.0"
